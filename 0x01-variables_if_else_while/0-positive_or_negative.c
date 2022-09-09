@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 /**
-*
 * main - Entry point
 *
 * Description: using the main function
@@ -28,7 +27,7 @@ else if (n < 0)
 printf("%i is negative\n", n);
 }
 
-else 
+else
 {
 printf("%i is positive\n", n);
 }
