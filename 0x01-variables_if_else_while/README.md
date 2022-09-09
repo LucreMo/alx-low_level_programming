@@ -11,3 +11,4 @@ T9. A program that prints all possible combinations of single-digit numbers
 T10. A program that prints all possible different c
 ombinations of two digits
 T11. A program that prints all possible different combinations of three digits
+T12. A program that prints all possible combinations of two two-digit numbers
