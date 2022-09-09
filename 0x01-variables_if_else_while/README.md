@@ -8,3 +8,5 @@ T6. A program that prints all single digit numbers of base 10 starting from 0, f
 T7. A program that prints the lowercase alphabet in reverse, followed by a new line
 T8. A program that prints all the numbers of base 16 in lowercase, followed by a new line
 T9. A program that prints all possible combinations of single-digit numbers
+T10. A program that prints all possible different c
+ombinations of two digits
