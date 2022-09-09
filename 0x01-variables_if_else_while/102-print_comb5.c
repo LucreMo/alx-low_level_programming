@@ -18,18 +18,18 @@ int main(void)
 			putchar(' ');
 			putchar((p / 10) + '0');
 			putchar((p % 10) + '0');
-			
+
 			if (i == 98 && p == 99)
 			{
 				break;
 			}
-			
+
 			putchar(',');
 			putchar(' ');
 		}
 	}
-	
+
 	putchar('\n');
-	
+
 	return (0);
 }
