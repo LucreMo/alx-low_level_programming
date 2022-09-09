@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - Ommit some alphabet
  *
  * Return: Always (Success)
