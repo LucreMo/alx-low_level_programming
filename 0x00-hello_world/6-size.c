@@ -1,18 +1,17 @@
 #include <stdio.h>
 
 /**
-* main - Prints size of many var types
-*
-* Description: using the main function
-* this program prints the sizes of many var types
-* return: 0 
-*/
+ * main - Prints the size of many var types
+ *
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	char c;
 	int i;
-	long li;
-	long long lli;
+	long int li;
+	long long int lli;
 	float f;
 
 	printf("Size of a char: %d byte(s)\n", sizeof(c));
