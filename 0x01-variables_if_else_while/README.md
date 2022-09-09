@@ -2,3 +2,4 @@ T0. The program will assign a random number to the variable n each time it is ex
 T1. The program will assign a random number to the variable n each time it is executed, and print the last digit of the number stored in the variable n
 T2. A program that prints the alphabet in lowercase
 T3. A program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
+T4. A program that prints the alphabet in lowercase, followed by a new line, except q and e
