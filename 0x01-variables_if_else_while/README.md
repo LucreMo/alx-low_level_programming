@@ -6,3 +6,4 @@ T4. A program that prints the alphabet in lowercase, followed by a new line, exc
 T5. A program that prints all single digit numbers of base 10 starting from 0, followed by a new line
 T6. A program that prints all single digit numbers of base 10 starting from 0, followed by a new line
 T7. A program that prints the lowercase alphabet in reverse, followed by a new line
+T8. A program that prints all the numbers of base 16 in lowercase, followed by a new line
