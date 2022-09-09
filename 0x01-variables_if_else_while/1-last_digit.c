@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - entry point 
+ * main - entry point
  *
  * Description: using the main function
  * print the last digit of a number
@@ -33,4 +33,4 @@ printf("Last digit of %i is %i and is less than 6 and not 0\n", n, n % 10);
 }
 
 return (0);
-}	
+}
