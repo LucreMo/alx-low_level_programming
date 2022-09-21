@@ -2,10 +2,11 @@
 #define MAIN_H
 
 /**
- * File: main.h
- * Auth: LM
- * Desc: Header file containing prototypes for all functions
+ * reverse_array - Reverses the content of an array of integer
+ * Header file containing prototypes for all functions
  * used in the 0x06. C - More pointers, arrays and strings directory
+ * @a: first parm
+ * @n: second param
  */
 
 void reverse_array(int *a, int n);
