@@ -1,5 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
+#include <stdio.h>
 
 /**
  * reverse_array - Reverses the content of an array of integer
@@ -23,4 +24,4 @@ char *leet(char *);
 char *rot13(char *);
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
 
-#endif
+#endif /*MAIN_H*/
